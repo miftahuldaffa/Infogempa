@@ -8,3 +8,6 @@ Gempa is tools for get information of gempa from bmkg.go.id
 
 # Gempa code
 - [x] <a href="gempa.py">Python script</a><br>
+
+# Gempa image
+<img src="img/gempa.jpg" />
